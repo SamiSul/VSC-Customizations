@@ -1,16 +1,16 @@
-{
   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
-        "scope": [
-          "comment",
-          "constant",
-          "storage.modifier",
-          "storage.type.class.js",
-          "keyword"
-        ],
+        "scope": ["comment"],
         "settings": {
+          "foreground": "#747474",
           "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": ["keyword"],
+        "settings": {
+          "fontStyle": "bold"
         }
       },
       {
@@ -28,5 +28,4 @@
         }
       }
     ]
-  }
-}
+  },
