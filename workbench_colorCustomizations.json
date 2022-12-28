@@ -1,7 +1,17 @@
   "workbench.colorCustomizations": {
     "editorCursor.foreground": "#d6d6d6",
     "terminalCursor.foreground": "#d6d6d6",
-    "[Default Dark+]": {
+        "[*]": {
+      "activityBar.activeBackground": "#121212",
+      "activityBar.activeBorder": "#868686",
+      "activityBar.border": "#121212",
+      "activityBar.dropBorder": "#868686",
+      "activityBar.inactiveForeground": "#868686",
+      "activityBar.foreground": "#ffffff",
+      "activityBarBadge.background": "#0D0D0D",
+      "activityBarBadge.foreground": "#ffffff",
+      "badge.background": "#0D0D0D",
+      "badge.foreground": "#ffffff",
       "sideBar.background": "#121212",
       "sideBarSectionHeader.background": "#121212",
       "sideBarSectionHeader.border": "#121212",
